@@ -1,5 +1,5 @@
 ##Caching the inverse of a matrix
-#These two functions interact to provide the inverse of a given matrix. 
+##These two functions interact to provide the inverse of a given matrix. 
 #If the inverse has been calculated before, the second function can recover it from the cache.
 
 #1. makeCacheMatrix: This function prints a list of four elements that subsequently set and get the
